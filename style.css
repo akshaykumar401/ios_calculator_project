@@ -9,7 +9,8 @@ body {
     );
     display: flex;
     justify-content: center;
-    padding-top: 3vh;
+    align-items: center;
+    height: 100vh;
 }
 
 .container {
