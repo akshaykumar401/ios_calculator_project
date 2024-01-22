@@ -53,6 +53,7 @@ body {
     color: white;
     outline: 0;
     border: 0;
+    overflow-x: scroll;
 }
 
 .row {
