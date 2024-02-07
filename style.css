@@ -90,8 +90,5 @@ body {
 }
 
 .button:active {
-    height: 59px;
-    width: 59px;
-    border-radius: 50%;
-    padding: 5px;
+    transform: scale(0.95);
 }
